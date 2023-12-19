@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DIiscount_Calculator/static/css/main.b330586a.css",
+    "main.js": "/DIiscount_Calculator/static/js/main.d390b35e.js",
+    "index.html": "/DIiscount_Calculator/index.html",
+    "main.b330586a.css.map": "/DIiscount_Calculator/static/css/main.b330586a.css.map",
+    "main.d390b35e.js.map": "/DIiscount_Calculator/static/js/main.d390b35e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b330586a.css",
+    "static/js/main.d390b35e.js"
+  ]
+}
